@@ -1,0 +1,17 @@
+# Códigos Básicos do Git/Github
+
+* git commit (serve para salvar alterações)
+
+* git cloner(utilizado para clonar projeto do github para seu git)
+
+* git config(para fazer alterações no seu git)
+
+* mkdir (cria repositório )
+
+* rmkdir(remove o repositorio)
+
+  ###### demais dúvidas acessar[link](https://comandosgit.github.io/)
+
+  
+
+  
